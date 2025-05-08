@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"S1, S2, S7, S8",Choc_V1_1.00u,4,Keyswitch,
+S3,Choc_V1_2.00u,1,Keyswitch,
+"S4, S5, S6",Choc_V1_1.50u,3,Keyswitch,
+U1,XIAO-nRF52840-DIP,1,xiao,
