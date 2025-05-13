@@ -2,7 +2,7 @@
 
 Only the worlds greatest one handed 8 key keyboard... supposedly according to me.
 
-ZMK/QMK firmware for dedicated board in progress, but, a list of combos in QMK format can be found in QMK_COMBOS.txt
+ZMK/QMK firmware for dedicated board in progress, but, a list of combos and an example keymap can be found in keymap.c to apply at free will.
 
 ![image](https://github.com/user-attachments/assets/5c33b1a5-32ef-4292-9327-9a7cd2329781)
 
